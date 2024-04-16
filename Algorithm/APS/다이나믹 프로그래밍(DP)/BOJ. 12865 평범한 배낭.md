@@ -18,7 +18,7 @@
 ✅ **비슷한 문제**
 
 - [BOJ. 2096 내려가기](https://www.acmicpc.net/problem/2096)
-    - [내려가기 풀이](https://www.notion.so/BOJ-2096-853882a83c35434bb11bc2dbf7912f9a?pvs=21)
+    - [내려가기 풀이](https://github.com/roqdkfwk/Algorithm/blob/master/Algorithm/APS/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D(DP)/BOJ.%202096%20%EB%82%B4%EB%A0%A4%EA%B0%80%EA%B8%B0.md)
 </aside>
 
 <aside>
