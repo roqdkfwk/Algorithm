@@ -8,9 +8,17 @@
 </aside>
 
 <aside>
+📖 알고리즘 분류
+
+- 다이나믹 프로그래밍
+- 배낭 문제
+</aside>
+
+<aside>
 ✅ **비슷한 문제**
 
-- [BOJ. 1149 RGB거리](https://www.acmicpc.net/problem/1149)
+- [BOJ. 12865 평범한 배낭](https://www.acmicpc.net/problem/12865)
+    - [평범한 배낭 풀이](https://www.notion.so/BOJ-12865-55a5a3c42c80422695fe5b10e2b42590?pvs=21)
 </aside>
 
 <aside>
