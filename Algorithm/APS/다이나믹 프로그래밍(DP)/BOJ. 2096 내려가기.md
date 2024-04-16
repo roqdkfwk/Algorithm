@@ -18,7 +18,7 @@
 ✅ **비슷한 문제**
 
 - [BOJ. 12865 평범한 배낭](https://www.acmicpc.net/problem/12865)
-    - [평범한 배낭 풀이][(https://www.notion.so/BOJ-12865-55a5a3c42c80422695fe5b10e2b42590?pvs=21)](https://github.com/roqdkfwk/Algorithm/blob/master/Algorithm/APS/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D(DP)/BOJ.%2012865%20%ED%8F%89%EB%B2%94%ED%95%9C%20%EB%B0%B0%EB%82%AD.md)
+    - [평범한 배낭 풀이][(https://www.notion.so/BOJ-12865-55a5a3c42c80422695fe5b10e2b42590?pvs=21)](https://github.com/roqdkfwk/Algorithm/blob/master/Algorithm/APS/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D(DP)/BOJ.%2012865%20%ED%8F%89%EB%B2%94%ED%95%9C%20%EB%B0%B0%EB%82%AD.md)]
 </aside>
 
 <aside>
