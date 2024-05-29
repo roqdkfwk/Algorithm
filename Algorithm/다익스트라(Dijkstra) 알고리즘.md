@@ -164,3 +164,9 @@
     		}
     	}	// Dijkstra
     ```
+    
+- 다익스트라 알고리즘 문제
+    - [BOJ. 1916 최소 비용 구하기](https://www.notion.so/BOJ-1916-1f5aeed4fd1540daad404bd4db5a2dc4?pvs=21)
+    - [BOJ. 4485 녹색 옷 입은 애가 젤다지?](https://www.notion.so/BOJ-4485-247235e0352746e28c944e694714f6d8?pvs=21)
+    - [BOJ. 1504 특정한 최단 경로](https://www.notion.so/BOJ-1504-a7825661ed794614a1e917bf78ac3467?pvs=21)
+    - [BOJ. 1753 최단경로](https://www.notion.so/BOJ-1753-9fafa2d63fe2436599cd0c017edbcf41?pvs=21)
