@@ -36,30 +36,30 @@
     - 다익스트라 알고리즘에 따라 가중치가 작은 간선들을 찾는 메소드
     
     ```java
-    	private static void dijkstra(int start) {
-    		PriorityQueue<Edge> pq = new PriorityQueue<>();
+    private static void dijkstra(int start) {
+    	PriorityQueue<Edge> pq = new PriorityQueue<>();
+    	
+    	visit = new boolean[V + 1];
+    	dist = new int[V + 1];
+    	Arrays.fill(dist, INF);
+    	dist[start] = 0;	// 시작 정점까지의 거리는 0
+    	
+    	pq.add(new Edge(start, start, 0));
+    	
+    	while (!pq.isEmpty()) {
+    		Edge curr = pq.poll();
     		
-    		visit = new boolean[V + 1];
-    		dist = new int[V + 1];
-    		Arrays.fill(dist, INF);
-    		dist[start] = 0;	// 시작 정점까지의 거리는 0
+    		if (visit[curr.to]) continue;	// 이미 방문했다면 비용을 알고 있다는 뜻
+    		visit[curr.to] = true;	// 방문하지 않았다면 방문처리
     		
-    		pq.add(new Edge(start, start, 0));
-    		
-    		while (!pq.isEmpty()) {
-    			Edge curr = pq.poll();
-    			
-    			if (visit[curr.to]) continue;	// 이미 방문했다면 비용을 알고 있다는 뜻
-    			visit[curr.to] = true;	// 방문하지 않았다면 방문처리
-    			
-    			for (Edge edge : edges[curr.to]) {
-    				if (!visit[edge.to] && dist[edge.to] > dist[edge.from] + edge.weight) {
-    					dist[edge.to] = dist[edge.from] + edge.weight;
-    					pq.add(new Edge(edge.from, edge.to, dist[edge.to]));
-    				}
+    		for (Edge edge : edges[curr.to]) {
+    			if (!visit[edge.to] && dist[edge.to] > dist[edge.from] + edge.weight) {
+    				dist[edge.to] = dist[edge.from] + edge.weight;
+    				pq.add(new Edge(edge.from, edge.to, dist[edge.to]));
     			}
-    		}	// while
-    	}	// dijkstra
+    		}
+    	}	// while
+    }	// dijkstra
     
     ```
     

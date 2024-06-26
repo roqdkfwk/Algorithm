@@ -166,7 +166,7 @@
     ```
     
 - 다익스트라 알고리즘 문제
-    - [BOJ. 1916 최소 비용 구하기](https://www.notion.so/BOJ-1916-1f5aeed4fd1540daad404bd4db5a2dc4?pvs=21)
-    - [BOJ. 4485 녹색 옷 입은 애가 젤다지?](https://www.notion.so/BOJ-4485-247235e0352746e28c944e694714f6d8?pvs=21)
+    - [BOJ. 1916 최소 비용 구하기](https://github.com/roqdkfwk/Algorithm/blob/master/Algorithm/APS/%EB%8B%A4%EC%9D%B5%EC%8A%A4%ED%8A%B8%EB%9D%BC(Dijkstra)/BOJ.%201916%20%EC%B5%9C%EC%86%8C%20%EB%B9%84%EC%9A%A9%20%EA%B5%AC%ED%95%98%EA%B8%B0.md)
+    - [BOJ. 4485 녹색 옷 입은 애가 젤다지?](https://github.com/roqdkfwk/Algorithm/blob/master/Algorithm/APS/%EB%8B%A4%EC%9D%B5%EC%8A%A4%ED%8A%B8%EB%9D%BC(Dijkstra)/BOJ.%204485%20%EB%85%B9%EC%83%89%20%EC%98%B7%20%EC%9E%85%EC%9D%80%20%EC%95%A0%EA%B0%80%20%EC%A0%A4%EB%8B%A4%EC%A7%80.md)
     - [BOJ. 1504 특정한 최단 경로](https://www.notion.so/BOJ-1504-a7825661ed794614a1e917bf78ac3467?pvs=21)
-    - [BOJ. 1753 최단경로](https://www.notion.so/BOJ-1753-9fafa2d63fe2436599cd0c017edbcf41?pvs=21)
+    - [BOJ. 1753 최단경로](https://github.com/roqdkfwk/Algorithm/blob/master/Algorithm/APS/%EB%8B%A4%EC%9D%B5%EC%8A%A4%ED%8A%B8%EB%9D%BC(Dijkstra)/BOJ.%201753%20%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C.md)
