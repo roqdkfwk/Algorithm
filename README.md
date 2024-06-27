@@ -10,6 +10,10 @@
 
 [# 퀵 정렬(QuickSorting)](https://github.com/roqdkfwk/Algorithm/blob/master/Algorithm/%ED%80%B5%20%EC%A0%95%EB%A0%AC(Quick%20Sort).md)
 
+[# 위상 정렬(Topological Sorting) By Queue](https://github.com/roqdkfwk/Algorithm/blob/master/Algorithm/%EC%9C%84%EC%83%81%20%EC%A0%95%EB%A0%AC(Topological%20Sorting)%20By%20Queue.md)
+
+[# 위상 정렬(Topological Sorting) By Stack](https://github.com/roqdkfwk/Algorithm/blob/master/Algorithm/%EC%9C%84%EC%83%81%20%EC%A0%95%EB%A0%AC(Topological%20Sorting)%20By%20Stack.md)
+
 "# 참고" 
 
 [# 다이나믹 프로그래밍(DP)](https://st-lab.tistory.com/141)
