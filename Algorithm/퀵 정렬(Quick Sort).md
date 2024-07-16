@@ -49,7 +49,7 @@
     			
     			// L : pivot보다 큰 값을 찾을 때 까지 이동
     			while (L <= R && arr[L] <= pivot) L++;
-    			// R : pivot보다 작거나 같은 값을 만날 떄 까지 이동
+    			// R : pivot보다 작거나 같은 값을 만날 때 까지 이동
     			while (arr[R] > pivot) R--;
     			
     			// 아직 교차하지 않았다면
