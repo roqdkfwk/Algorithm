@@ -19,8 +19,6 @@
 ✅ **비슷한 문제**
 
 - [BOJ. 2098 외판원 순회](https://www.acmicpc.net/problem/2098)
-- [BOJ. 11054 가장 긴 바이토닉 부분 수열](https://www.acmicpc.net/problem/11054)
-- [BOJ. 11722 가장 긴 감소하는 부분 수열](https://www.acmicpc.net/problem/11722)
 </aside>
 
 <aside>
