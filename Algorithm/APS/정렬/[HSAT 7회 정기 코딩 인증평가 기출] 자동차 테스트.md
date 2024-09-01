@@ -27,14 +27,14 @@ public class Main {
 	
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-    StringBuilder sb = new StringBuilder();
+	  	StringBuilder sb = new StringBuilder();
 		StringTokenizer st;
 		
 		st = new StringTokenizer(br.readLine());
 		n = Integer.parseInt(st.nextToken());
 		q = Integer.parseInt(st.nextToken());
 
-    arr = new ArrayList<Integer>();
+ 		arr = new ArrayList<Integer>();
 		st = new StringTokenizer(br.readLine());
 		for (int i = 0; i < n; i++)
 			arr.add(Integer.parseInt(st.nextToken()));
@@ -73,14 +73,14 @@ public class Main {
 	
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-    StringBuilder sb = new StringBuilder();
+    		StringBuilder sb = new StringBuilder();
 		StringTokenizer st;
 		
 		st = new StringTokenizer(br.readLine());
 		n = Integer.parseInt(st.nextToken());
 		q = Integer.parseInt(st.nextToken());
 
-    arr = new ArrayList<Integer>();
+    		arr = new ArrayList<Integer>();
 		st = new StringTokenizer(br.readLine());
 		for (int i = 0; i < n; i++)
 			arr.add(Integer.parseInt(st.nextToken()));
